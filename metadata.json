@@ -1,0 +1,6 @@
+{
+  "name": "Concreto I — Calculadora de Vigas ACI 318-19",
+  "description": "Calculadora interactiva en tiempo real para el análisis, diseño y verificación de vigas rectangulares de concreto simplemente reforzadas sometidas a flexión según ACI 318-19.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
